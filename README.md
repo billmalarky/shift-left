@@ -1,7 +1,7 @@
 # Shift Left: How to Become an AI Engineer from a Fullstack Background
 A practical guide that that teaches you the comprehensive best-practice skills and knowledge required to launch a professional AI Engineering career – think of it as an AI Engineering bootcamp.
 
-[![Shift Left: How to Become an AI Engineer from a Fullstack Background (Full Video Presentation)](https://raw.githubusercontent.com/billmalarky/shift-left/master/media/shift-left-video-poster.png)](https://drive.google.com/file/d/1_C-AmdzQLW-rhBmlSvhfj1bKIsP2xx1L/view?usp=sharing)
+[![Shift Left: How to Become an AI Engineer from a Fullstack Background (Full Video Presentation)](https://raw.githubusercontent.com/billmalarky/shift-left/main/media/shift-left-video-poster.png)](https://drive.google.com/file/d/1_C-AmdzQLW-rhBmlSvhfj1bKIsP2xx1L/view?usp=sharing)
 
 ### [Full Presentation Video](https://drive.google.com/file/d/1_C-AmdzQLW-rhBmlSvhfj1bKIsP2xx1L/view?usp=sharing)
 ### [Presentation Slides](https://bit.ly/shift-left-slides)
